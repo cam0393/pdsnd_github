@@ -8,7 +8,7 @@ bikeshare_2
 
 ### Description
 Describe what your project is about and what it does
-The bikeshare project pulls data depending on user inputs
+The bikeshare project pulls data depending on user inputs. Works with the cities New York, Chicago, Washington
 
 ### Files used
 Include the files used
