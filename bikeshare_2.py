@@ -25,7 +25,7 @@ def get_filters():
         "City is incorrect! Please input another name: ").lower()
 
     # get user input for month (all, january, february, ... , june)
-    month = input("Please input month (January - June, or all): ").lower()
+    month = input("Please input a month (January - June, or all): ").lower()
 
     while month not in ['january', 'february', 'march', 'april', 'may', 'june', 'all']:
       month = input(
